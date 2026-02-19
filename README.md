@@ -19,3 +19,9 @@ IT Student passionate about building structured and meaningful software solution
 - Medication Reminder App (HCI & UX Prototype)
 
 I continuously improve my technical and analytical skills through academic and personal projects, focusing on building practical and user-centered digital solutions.
+
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Remas-IT&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Remas-IT&layout=compact&hide_border=true)
