@@ -1,11 +1,21 @@
-Hello...I'm an IT student with a strong interest in building meaningful and well structured software solutions.  
-This profile showcases my academic and personal projects developed through continuous learning and practical experience.
+# Hi, I'm Remas 👩🏻‍💻
 
-My professional interests focus on:
-- Data Analysis and Data-Driven Decision Making  
-- UI/UX Design with an emphasis on usability and user centered design  
-- Artificial Intelligence and intelligent systems  
-- Web Development and modern web technologies  
+IT Student passionate about building structured and meaningful software solutions.
 
-I aim to combine technical skills with analytical thinking to create efficient, user friendly and impactful digital solutions.  
-Here I document my learning journey, share my work, and continuously improve through experimentation and real world projects.
+## 🔹 Areas of Interest
+- Data Analysis & Data-Driven Decision Making  
+- UI/UX Design & Human-Computer Interaction  
+- Web Development (Frontend & Backend Basics)  
+- Artificial Intelligence Fundamentals  
+
+## 🔹 Technical Skills
+- HTML, CSS, JavaScript  
+- PHP, MySQL  
+- Java, C++  
+- Wireframing & Usability Testing  
+
+## 🔹 Featured Projects
+- Athkar Web Application (PHP & MySQL-based Web App)
+- Medication Reminder App (HCI & UX Prototype)
+
+I continuously improve my technical and analytical skills through academic and personal projects, focusing on building practical and user-centered digital solutions.
